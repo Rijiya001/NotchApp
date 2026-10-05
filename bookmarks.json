@@ -1,0 +1,12 @@
+{
+    "yt": {
+        "name": "YouTube",
+        "url": "https://youtube.com",
+        "app": "Default"
+    },
+    "gm": {
+        "name": "Gmail",
+        "url": "https://mail.google.com",
+        "app": "Default"
+    }
+}
